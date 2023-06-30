@@ -1,0 +1,15 @@
+body{
+   color: #3F3FBF;
+  background-color: lightblue;
+}
+
+div h1{
+   text-align : center;
+   color: grey; 
+}
+.topics{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
