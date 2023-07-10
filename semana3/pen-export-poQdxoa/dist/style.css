@@ -1,0 +1,14 @@
+body{
+  background : lightblue
+}
+
+h1{
+  color: grey;
+  text-decoration: underline;
+}
+#text{
+  background: grey;
+  font-family: arabic-indic;
+  margin-left: 50px;
+  padding-left: 50px;
+}
